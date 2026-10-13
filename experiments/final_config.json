@@ -1,0 +1,22 @@
+{
+ "winner": "XGB tuned (Optuna)",
+ "xgb_params": {
+  "learning_rate": 0.03070970764402742,
+  "max_depth": 9,
+  "min_child_weight": 4.673729717992407,
+  "subsample": 0.5014632634259749,
+  "colsample_bytree": 0.5678047066568557,
+  "reg_lambda": 2.5011099971684687,
+  "reg_alpha": 0.003836121557645492,
+  "gamma": 1.7547796847695507,
+  "max_delta_step": 0.6496984996673965
+ },
+ "weight_power": 0.21131154021317178,
+ "mule_weight": 2.2759249505073598,
+ "holdout": {
+  "hold_roc_auc": 0.9975280612244899,
+  "hold_pr_auc": 0.9532016872768683,
+  "hold_log_loss": 0.01251027000742179,
+  "hold_brier": 0.0032129856268921803
+ }
+}
